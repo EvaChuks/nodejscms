@@ -1,0 +1,25 @@
+.thumbnail img{
+	width:100%;
+}
+.thumbnail .caption-full {
+    padding: 9px;
+}
+form.deletepost{
+	display:inline;
+}
+/* Google Maps */
+#map {
+    height: 400px;
+    width: 100%;
+}
+/* search button */
+#search{
+	padding-top:5px;
+}
+.checked {
+    color: orange;
+}
+
+#delete-form{
+	display:inline;
+}
